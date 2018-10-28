@@ -1,0 +1,15 @@
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\HttpPractice.exe.config
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\HttpPractice.exe
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\HttpPractice.pdb
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\System.Net.Http.dll
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\obj\Debug\HttpPractice.csproj.CoreCompileInputs.cache
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\obj\Debug\HttpPractice.csproj.CopyComplete
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\obj\Debug\HttpPractice.exe
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\obj\Debug\HttpPractice.pdb
+C:\Users\Zeshan\Desktop\HttpPractice\HttpPractice\obj\Debug\HttpPractice.csprojAssemblyReference.cache
